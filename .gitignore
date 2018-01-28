@@ -1,3 +1,6 @@
 .DS_Store
+
 path*.txt
+
+*.zip
 data/cpac
