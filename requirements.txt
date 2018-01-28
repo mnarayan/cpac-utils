@@ -1,0 +1,4 @@
+awscli
+numpy
+scipy
+pandas
