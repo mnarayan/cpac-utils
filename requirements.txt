@@ -2,3 +2,4 @@ awscli
 numpy
 scipy
 pandas
+synapseclient
