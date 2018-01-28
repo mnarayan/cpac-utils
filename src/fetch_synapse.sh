@@ -1,0 +1,2 @@
+SYNAPSEID=syn11714523
+synapse get ${SYNAPSEID}
